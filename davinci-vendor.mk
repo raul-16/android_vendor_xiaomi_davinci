@@ -157,7 +157,6 @@ PRODUCT_PACKAGES += \
     libadm \
     libaudcal \
     libqtigef \
-    libsn100u_fw \
     com.qti.sensor.imx582_davinci \
     com.qti.sensor.ov8856_davinci \
     com.qti.sensor.s5k3l6_davinci \
@@ -277,6 +276,7 @@ PRODUCT_PACKAGES += \
     libremosaic_daemon \
     libremosaiclib \
     libsensorslog \
+    libsn100u_fw \
     libsns_fastRPC_util \
     libsns_low_lat_stream_stub \
     libsnsapi \
